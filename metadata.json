@@ -1,0 +1,7 @@
+{
+  "name": "aura-music",
+  "description": "A fictional modern music discovery and sonic editorial experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
